@@ -52,3 +52,4 @@ This tool is licensed under [GNU Lesser GPL][lgpl] license.
 [omdbapi]: https://www.omdbapi.com
 [docker]: https://docs.docker.com/install/
 [omdb-cli]: https://github.com/bgr/omdb-cli/
+[lgpl]: https://www.gnu.org/licenses/lgpl-3.0.html
