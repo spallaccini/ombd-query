@@ -9,7 +9,7 @@ need to update the variable named `my_omdb_key` into `thesmallscript.sh` file.
 
 A **personal** API key is anyway currently stored.
 
-`Docker` application needs also to be installed onto your host system. Instructions can be found at the [Docker website][docker]
+You also need to setup a **linux** host system (I tested the application atop Ubuntu 16.04 LTS). `Docker` application needs to be installed: instructions can be found at the [Docker website][docker]
 
 ### Usage:
 
@@ -23,7 +23,7 @@ Then you can run the application via command line:
 
 ### Some usage examples:
 
-Show all info about the movie 'The Party'
+Show information about the movie: 'The Party'
 
     $ docker run -ti omdb-query
     Enter a film name and you'll get Rotten Tomatoes rating! -> The Party
