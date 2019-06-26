@@ -1,4 +1,4 @@
-*NIX command line and GUI tool for retrieving OMDb movie/TV information
+A small "dockerized" application to get movie ratings
 ============================================================
 
 ### Prerequisites:
